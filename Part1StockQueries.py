@@ -3,9 +3,6 @@ import json
 import csv
 
 """
-
-
-
 Solution Steps:
      Loop over given list of stocks.
 
