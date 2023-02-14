@@ -10,3 +10,11 @@ following rows. Please also include the header in the CSV file:
 Example:
 - stock_symbol,percentage_change,current_price,last_close_price
 - AAPL, 13.2, 120.5, 150
+
+Notes:
+- To run the script, you need to have Python3 installed in your pc.
+- The command to run the file is: python3 Part1StockQueries.py
+- After running the script, a CSV file will be generated with the result you need.
+
+Thanks for reviewing my code.
+Mohammad
