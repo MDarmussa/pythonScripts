@@ -8,5 +8,5 @@ Write a Python script to accomplish the following tasks. The program should run 
 following rows. Please also include the header in the CSV file: 
 
 Example:
-stock_symbol,percentage_change,current_price,last_close_price
-AAPL, 13.2, 120.5, 150
+- stock_symbol,percentage_change,current_price,last_close_price
+- AAPL, 13.2, 120.5, 150
